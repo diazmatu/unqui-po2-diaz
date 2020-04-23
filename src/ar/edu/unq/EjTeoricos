@@ -1,0 +1,14 @@
+String a = "abc"
+String s = a;
+String t;
+
+s.lenght(); null o 0
+t.lenght(); 1
+l + a; la
+a.toUpperCase(); A
+"Libertad".incexOf("r"); 5
+""Universidad".lastIndexOf('i'); 7
+"Quilmes".substring(2,4); "uil"
+(a.lenght() + a).startsWith("a"); False
+s == a; False
+a.substring(1,3).equals("bc"); False
